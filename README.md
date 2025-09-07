@@ -5,7 +5,7 @@ Submitted by Kumara swamy Palakuri
 ## 📖 Overview
 This **Inventory Management System** is a full-stack web application built with modern development practices.  
 It integrates a **robust backend architecture** with an **intuitive frontend experience**, ensuring efficient inventory tracking, role-based security, and real-time updates.
-
+ 
 ---
 
 ## 🚀 Features
