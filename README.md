@@ -52,7 +52,7 @@ InventoryManagementSystem/
 - │ ├── src/store/
 - │ └── src/utils/
 - │
-- │── README.md
+- │── README.md 
 ```
 ---
 ## Detailed Structure
