@@ -1,4 +1,4 @@
-Submitted by Kumara swamy Palakuri
+Submitted by Kumara swamy Palakuri 
 # 📦 Inventory Management System
 
 ---
